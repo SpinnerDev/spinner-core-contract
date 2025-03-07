@@ -7,7 +7,7 @@
 
 This repository contains the core smart contracts for the Spinner Protocol.
 
-## Spinner Contract Deployments
+## Spinner Contract Deployments on Sonic
 
 | Contract    | Address |
 | -------- | ------- |
