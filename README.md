@@ -11,7 +11,7 @@ This repository contains the core smart contracts for the Spinner Protocol.
 
 | Contract    | Address |
 | -------- | ------- |
-| [SpinnerFactory](0xf2576409756390035cbef3e07c69368e49a35809)  |  0xf2576409756390035cbef3e07c69368e49a35809   |
+| [SpinnerFactory](https://sonicscan.org/address/0xf2576409756390035cbef3e07c69368e49a35809#code)  |  0xf2576409756390035cbef3e07c69368e49a35809   |
 | [LockerFactory](https://sonicscan.org/address/0x4F8049395e1B435F7Ef8473b1733580b14eDD18c#code) |   0x4F8049395e1B435F7Ef8473b1733580b14eDD18c   |
 
 
